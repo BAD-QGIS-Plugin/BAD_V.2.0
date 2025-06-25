@@ -1,3 +1,6 @@
+To install the Burned Area Detector plugin, download the ZIP file from the GitHub repository, unzip it, then in QGIS go to Plugins → Manage and Install Plugins → Install from ZIP, select the plugin folder, and click Install.
+
+
 ## 🔧 Key Features
 
 The BAD 2.0 plugin introduces major enhancements over the original version to streamline the workflow of burned area detection and validation. These include:
